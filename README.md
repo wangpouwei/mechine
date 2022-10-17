@@ -1,0 +1,2 @@
+# mechine
+machine learning
